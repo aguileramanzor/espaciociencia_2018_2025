@@ -47,3 +47,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Documento académico (paper en desarrollo)
+paper/
+
+# Borradores de artículos
+*_paper.Rmd
+paper/
+
