@@ -1,6 +1,6 @@
 Este repositorio documenta el proceso de construcción y análisis de un corpus de publicaciones indexadas en la plataforma Espacio Ciencia, recuperadas mediante web scraping bajo criterios de búsqueda asociados al término “ecosistema”.
 
-El objetivo del proyecto fue identificar patrones de uso del concepto en descripciones de publicaciones científicas entre 2018 y 2025, con el fin de explorar sus configuraciones semánticas en el corpus.
+El objetivo del proyecto fue identificar patrones de uso del concepto en descripciones de publicaciones científicas chilenas entre 2018 y 2025.
 
 El corpus fue construido mediante extracción automatizada de registros desde la plataforma, seguida de: limpieza y normalización de datos,
 depuración de registros incompletos, separación entre versiones crudas (raw) y procesadas, generación de un dataset analítico para el estudio semántico.
