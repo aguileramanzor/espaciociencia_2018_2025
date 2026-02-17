@@ -21,11 +21,11 @@ df_terms <- readr::read_csv(in_file, show_col_types = FALSE) %>%
 cluster_names <- tibble::tibble(
   cluster = 1:5,
   cluster_nombre = c(
-    "Ecosistema en relación a encuadres académico-formativos",
-    "Ecosistema en relación a articulaciones socio-territoriales",
-    "Ecosistema en relación a configuraciones ambientales",
-    "Ecosistema en relación a unidades empírico-materiales",
-    "Ecosistema en relación a marcos generales"
+    "Encuadres académico-formativos",
+    "Articulaciones socio-territoriales",
+    "Configuraciones ambientales",
+    "Registros empírico-materiales",
+    "Marcos generales"
   )
 )
 
